@@ -1,0 +1,9 @@
+{"data":{
+  "appname": "Appupdate.apk",
+  "serverVersion": "1.0.2",
+  "serverFlag": "1",
+  "force" : "0",
+  "updateurl": "http://192.168.31.158:8081/app/Appupdate.apk",
+  "upgradeinfo": "V1.0.2版本更新,要试一下吗"
+},
+  "error_code":"200","error_msg" :"zzn"}
